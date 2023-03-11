@@ -1,0 +1,23 @@
+{
+  "authors": [],
+  "contributors": [
+    "ErikSchierboom",
+    "iHiD",
+    "juhlig",
+    "NobbZ"
+  ],
+  "files": {
+    "solution": [
+      "src/isogram.erl"
+    ],
+    "test": [
+      "test/isogram_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "blurb": "Determine if a word or phrase is an isogram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Isogram"
+}
