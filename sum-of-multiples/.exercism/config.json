@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "tmcgilchrist"
+  ],
+  "contributors": [
+    "adolfopa",
+    "dmnelson",
+    "ErikSchierboom",
+    "etrepum",
+    "iHiD",
+    "JordanAdams",
+    "juhlig",
+    "kytrinyx",
+    "mguaypaq",
+    "NobbZ",
+    "xymbol"
+  ],
+  "files": {
+    "solution": [
+      "src/sum_of_multiples.erl"
+    ],
+    "test": [
+      "test/sum_of_multiples_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "blurb": "Given a number, find the sum of all the multiples of particular numbers up to but not including that number.",
+  "source": "A variation on Problem 1 at Project Euler",
+  "source_url": "http://projecteuler.net/problem=1"
+}

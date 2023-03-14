@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "NobbZ"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "iHiD",
+    "JordanAdams",
+    "juhlig",
+    "kytrinyx",
+    "tmcgilchrist",
+    "xymbol",
+    "yurrriq"
+  ],
+  "files": {
+    "solution": [
+      "src/scrabble_score.erl"
+    ],
+    "test": [
+      "test/scrabble_score_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "blurb": "Given a word, compute the Scrabble score for that word.",
+  "source": "Inspired by the Extreme Startup game",
+  "source_url": "https://github.com/rchatley/extreme_startup"
+}
