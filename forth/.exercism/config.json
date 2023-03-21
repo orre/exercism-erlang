@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "juhlig"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "iHiD",
+    "NobbZ"
+  ],
+  "files": {
+    "solution": [
+      "src/forth.erl"
+    ],
+    "test": [
+      "test/forth_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "blurb": "Implement an evaluator for a very simple subset of Forth."
+}

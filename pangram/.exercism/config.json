@@ -1,0 +1,23 @@
+{
+  "authors": [],
+  "contributors": [
+    "ErikSchierboom",
+    "iHiD",
+    "juhlig",
+    "NobbZ"
+  ],
+  "files": {
+    "solution": [
+      "src/pangram.erl"
+    ],
+    "test": [
+      "test/pangram_tests.erl"
+    ],
+    "example": [
+      ".meta/example.erl"
+    ]
+  },
+  "blurb": "Determine if a sentence is a pangram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
+}

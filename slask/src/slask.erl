@@ -2,8 +2,8 @@
 
 -compile(export_all).
 
-chunkify(_, []) -> 
+chunkify(_, []) ->
     [];
 chunkify(N, List) ->
     {First, Rest} = lists:split(N, List),
-    [First|chunkify(N, Rest)].
+    [First | chunkify(N, Rest)].
